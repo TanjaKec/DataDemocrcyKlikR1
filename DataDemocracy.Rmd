@@ -15,7 +15,7 @@ output:
 class: inverse, middle
 ### presentation available from: 
 
-####<https://tanjakec.github.io/DataDemocracy/DataDemocracy.html>
+####<https://tanjakec.github.io/DataDemocrcyKlikR/DataDemocracy.html>
 
 ### To download go to GitHub repo: 
 
