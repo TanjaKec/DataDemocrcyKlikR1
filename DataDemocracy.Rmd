@@ -19,7 +19,7 @@ class: inverse, middle
 
 ### To download go to GitHub repo: 
 
-####<https://github.com/TanjaKec/DataDemocracyKlikR>
+####<https://github.com/TanjaKec/DataDemocrcyKlikR>
 ---
 
 class: inverse, center, middle
